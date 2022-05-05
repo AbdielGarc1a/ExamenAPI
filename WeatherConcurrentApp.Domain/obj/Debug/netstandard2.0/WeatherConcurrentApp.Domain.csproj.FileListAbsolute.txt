@@ -1,0 +1,30 @@
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.deps.json
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\User\Source\Repos\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.deps.json
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.AssemblyReference.cache
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfoInputs.cache
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfo.cs
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.CoreCompileInputs.cache
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+F:\EXAMEN 2\Examen_2M1-ISz\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.deps.json
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.AssemblyReference.cache
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfoInputs.cache
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.AssemblyInfo.cs
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.csproj.CoreCompileInputs.cache
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+F:\EXAMEN 2\Examen\WeatherConcurrentApp.Domain\obj\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
