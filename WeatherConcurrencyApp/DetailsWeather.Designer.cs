@@ -36,11 +36,11 @@ namespace WeatherConcurrencyApp
             // lblDetail
             // 
             this.lblDetail.AutoSize = true;
-            this.lblDetail.Font = new System.Drawing.Font("Arial Narrow", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDetail.Font = new System.Drawing.Font("Arial Narrow", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDetail.ForeColor = System.Drawing.Color.White;
             this.lblDetail.Location = new System.Drawing.Point(18, 11);
             this.lblDetail.Name = "lblDetail";
-            this.lblDetail.Size = new System.Drawing.Size(91, 20);
+            this.lblDetail.Size = new System.Drawing.Size(65, 16);
             this.lblDetail.TabIndex = 0;
             this.lblDetail.Text = "DetailWeather";
             this.lblDetail.Click += new System.EventHandler(this.lblDetail_Click);
@@ -48,11 +48,11 @@ namespace WeatherConcurrencyApp
             // lblDetailValue
             // 
             this.lblDetailValue.AutoSize = true;
-            this.lblDetailValue.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDetailValue.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDetailValue.ForeColor = System.Drawing.Color.White;
             this.lblDetailValue.Location = new System.Drawing.Point(30, 50);
             this.lblDetailValue.Name = "lblDetailValue";
-            this.lblDetailValue.Size = new System.Drawing.Size(51, 19);
+            this.lblDetailValue.Size = new System.Drawing.Size(38, 15);
             this.lblDetailValue.TabIndex = 1;
             this.lblDetailValue.Text = "Value";
             // 

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\EXAMEN 2\\Examen\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\ExamenAPIa\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj": {}
   },
   "projects": {
-    "F:\\EXAMEN 2\\Examen\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\ExamenAPIa\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\EXAMEN 2\\Examen\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\ExamenAPIa\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj",
         "projectName": "WeatherConcurrentApp.Domain",
-        "projectPath": "F:\\EXAMEN 2\\Examen\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\JADPA13\\.nuget\\packages\\",
-        "outputPath": "F:\\EXAMEN 2\\Examen\\WeatherConcurrentApp.Domain\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\ExamenAPIa\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\ExamenAPIa\\WeatherConcurrentApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JADPA13\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +65,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

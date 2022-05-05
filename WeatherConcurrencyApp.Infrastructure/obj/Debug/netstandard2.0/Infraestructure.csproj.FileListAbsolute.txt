@@ -1,0 +1,15 @@
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\Infraestructure.deps.json
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\Infraestructure.pdb
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.dll
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.pdb
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.AssemblyInfo.cs
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.csproj.CopyComplete
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.dll
+C:\Users\User\Source\Repos\ExamenAPIa\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\Infraestructure.pdb

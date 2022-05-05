@@ -41,9 +41,9 @@ namespace WeatherConcurrencyApp
             this.flpContent.AutoScroll = true;
             this.flpContent.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
             this.flpContent.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.flpContent.Location = new System.Drawing.Point(0, 79);
+            this.flpContent.Location = new System.Drawing.Point(0, 68);
             this.flpContent.Name = "flpContent";
-            this.flpContent.Size = new System.Drawing.Size(645, 428);
+            this.flpContent.Size = new System.Drawing.Size(645, 439);
             this.flpContent.TabIndex = 0;
             // 
             // panel1

@@ -128,7 +128,7 @@ namespace WeatherConcurrencyApp
             // flpContent
             // 
             this.flpContent.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.flpContent.Location = new System.Drawing.Point(0, 141);
+            this.flpContent.Location = new System.Drawing.Point(0, 207);
             this.flpContent.Name = "flpContent";
             this.flpContent.Size = new System.Drawing.Size(338, 410);
             this.flpContent.TabIndex = 3;
@@ -141,7 +141,7 @@ namespace WeatherConcurrencyApp
             this.Controls.Add(this.flpContent);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Name = "WeatherPanel";
-            this.Size = new System.Drawing.Size(338, 551);
+            this.Size = new System.Drawing.Size(338, 617);
             this.Load += new System.EventHandler(this.WeatherPanel_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();

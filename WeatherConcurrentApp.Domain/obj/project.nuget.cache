@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "DcQY0BysxfWMpYVxBd/2ZbYyTzpayb/QRMmkGTA8yLmof94+IUGvqV1U3vsre5gvIHT8RX1TnuFcDLEaIvpp3g==",
+  "dgSpecHash": "IK93JEbhKf6rymKa3nCYAjaNCO7fzJ4vNc6gC8hWTc0KLJNVmTIYaclqrGXh/j2SJTwRQt04V1DJj9aNwgaHxg==",
   "success": true,
-  "projectFilePath": "F:\\EXAMEN 2\\Examen\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\ExamenAPIa\\WeatherConcurrentApp.Domain\\WeatherConcurrentApp.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\JADPA13\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
